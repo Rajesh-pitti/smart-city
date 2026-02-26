@@ -228,3 +228,4 @@ This project is part of the FSAD-PS21 Smart City Management System.
 ## Support
 
 For issues or questions, contact: support@smartcity.com
+# smart-city
